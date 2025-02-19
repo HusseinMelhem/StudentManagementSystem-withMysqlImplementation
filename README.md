@@ -59,4 +59,5 @@ INSERT INTO users (username, password) VALUES ('admin', 'admin123');
 3️⃣ Run LoginGUI.java
 
 🔗 Related Projects
-Inventory Management System with MySQL
+[Inventory Management System with MySQL
+](https://github.com/HusseinMelhem/InventoryManagementSystem-withMysql)
